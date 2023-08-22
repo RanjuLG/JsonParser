@@ -1,0 +1,14 @@
+D:\Documents\Tasks\JsonParser\bin\Debug\net7.0\JsonParser.exe
+D:\Documents\Tasks\JsonParser\bin\Debug\net7.0\JsonParser.deps.json
+D:\Documents\Tasks\JsonParser\bin\Debug\net7.0\JsonParser.runtimeconfig.json
+D:\Documents\Tasks\JsonParser\bin\Debug\net7.0\JsonParser.dll
+D:\Documents\Tasks\JsonParser\bin\Debug\net7.0\JsonParser.pdb
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.AssemblyInfoInputs.cache
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.AssemblyInfo.cs
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.dll
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\refint\JsonParser.dll
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.pdb
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\JsonParser.genruntimeconfig.cache
+D:\Documents\Tasks\JsonParser\obj\Debug\net7.0\ref\JsonParser.dll

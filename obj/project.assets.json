@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ranju\\.nuget\\packages\\": {},
+    "C:\\Users\\Ranju\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranju\\Desktop\\JsonParser\\JsonParser\\JsonParser.csproj",
+      "projectUniqueName": "D:\\Documents\\Tasks\\JsonParser\\JsonParser.csproj",
       "projectName": "JsonParser",
-      "projectPath": "C:\\Users\\ranju\\Desktop\\JsonParser\\JsonParser\\JsonParser.csproj",
-      "packagesPath": "C:\\Users\\ranju\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranju\\Desktop\\JsonParser\\JsonParser\\obj\\",
+      "projectPath": "D:\\Documents\\Tasks\\JsonParser\\JsonParser.csproj",
+      "packagesPath": "C:\\Users\\Ranju\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Tasks\\JsonParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ranju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ranju\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
