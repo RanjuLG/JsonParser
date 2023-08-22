@@ -1,0 +1,15 @@
+
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "gender": "Male",
+        "age": 30,
+        "address": [
+            {
+                "streetAddress": "123 Main St",
+                "city": "Example City",
+                "state": "CA"
+            }
+        ]
+    }
+
